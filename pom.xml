@@ -116,6 +116,11 @@
       <artifactId>springdoc-openapi-ui</artifactId>
       <version>1.6.14</version>
     </dependency>
+    <dependency>
+      <groupId>org.springdoc</groupId>
+      <artifactId>springdoc-openapi-spring-boot-starter</artifactId>
+      <version>1.6.14</version>
+    </dependency>
   </dependencies>
 
   <build>
